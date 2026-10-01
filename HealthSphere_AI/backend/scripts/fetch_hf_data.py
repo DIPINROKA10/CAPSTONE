@@ -30,6 +30,15 @@ TARGETS = [
     ("thesisDeath/blood-pathology-lims-environment", "blood-pathology-lims", None, None),
     ("aai530-group6/pmdata", "pmdata-lifestyle", 1000, None),
     ("kmanikandan/atman-healthai-medical-dataset", "atman-medical", None, None),
+    ("huzaifa525/Medical_Intelligence_Dataset_76k_2026_Edition", "medical-qa-76k", 10000, None),
+    ("xpertsystems/hc-end-004-sample", "thyroid-disorders-500", None, None),
+    ("BenchmarkDatasets/thyroid", "thyroid-7k", None, None),
+    ("xpertsystems/hc-end-006-sample", "adrenal-disorders-500", None, None),
+    ("odeyaaa/Predicting_level_of_mental_well-being_based_on_lifestyle", "mental-wellbeing-400k", 10000, None),
+    ("Auric-Grid/E1.S5-SomniMetrics-BHDS-Synthetic-Dataset", "sleep-behavioral-health", None, None),
+    ("tarekmasryo/digital-lifestyle-benchmark-dataset", "digital-lifestyle-3500", None, None),
+    ("williamTLmiller/nutrimhm-bodyage-normalized", "bodyage-biomarkers", 5000, None),
+    ("a1o/kidney", "kidney-dataset", None, None),
 ]
 # fallback IDs if primary fails (owner renames)
 FALLBACKS = {

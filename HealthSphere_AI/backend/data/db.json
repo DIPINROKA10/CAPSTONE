@@ -420,10 +420,10 @@
    "expiresAt": "2026-10-07T17:38:28.445Z"
   },
   {
-   "token": "53b079ba33c11489076c1c305b886ec835e4d58459a9d859e5c685256813e3db",
-   "userId": "usr_54b52e030d04bd03",
-   "createdAt": "2026-10-01T04:15:04.366Z",
-   "expiresAt": "2026-10-08T04:15:04.366Z"
+   "token": "e6d19493811116c5f8592835a87488eb0dfb56f9fd6256c8bd13d94ac4fe34ad",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-10-01T07:19:37.439Z",
+   "expiresAt": "2026-10-08T07:19:37.440Z"
   }
  ],
  "profiles": {
@@ -528,24 +528,6 @@
     "events": [],
     "notes": "",
     "recordedAt": "2026-08-20T10:51:40.296Z"
-   },
-   {
-    "id": "fam_24f575888817c5cf",
-    "relation": "Uncle",
-    "name": "Mahesh Mehta",
-    "ageOrYear": "57",
-    "conditions": [
-     {
-      "name": "Type 2 Diabetes",
-      "diagAge": 55
-     }
-    ],
-    "surgeries": [],
-    "cancerHistory": false,
-    "geneticConditions": [],
-    "events": [],
-    "notes": "",
-    "recordedAt": "2026-08-19T10:51:40.296Z"
    },
    {
     "id": "fam_f4636c1543d686f0",
@@ -2192,6 +2174,13 @@
     "status": "active",
     "hasLocation": true,
     "message": "EMERGENCY ALERT — Arjun Mehta needs urgent help. Please attempt to reach them and send help to their last known location. Location: https://maps.google.com/?q=12.757489397530282,77.70182390056053"
+   },
+   {
+    "id": "sos_32a75531ae2fa6e7",
+    "ts": "2026-10-01T07:02:35.003Z",
+    "status": "active",
+    "hasLocation": true,
+    "message": "EMERGENCY ALERT — Arjun Mehta needs urgent help. Please attempt to reach them and send help to their last known location. Location: https://maps.google.com/?q=12.731667106534498,77.70786522059203"
    }
   ]
  },
@@ -2466,6 +2455,46 @@
     "ts": "2026-10-01T04:19:54.064Z",
     "action": "report_uploaded",
     "detail": "medrep.png"
+   },
+   {
+    "ts": "2026-10-01T07:00:05.610Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-10-01T07:00:33.449Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-10-01T07:01:48.755Z",
+    "action": "family_member_added",
+    "detail": "Brother"
+   },
+   {
+    "ts": "2026-10-01T07:02:26.257Z",
+    "action": "emergency_card_accessed",
+    "detail": ""
+   },
+   {
+    "ts": "2026-10-01T07:02:30.755Z",
+    "action": "emergency_card_accessed",
+    "detail": ""
+   },
+   {
+    "ts": "2026-10-01T07:02:35.003Z",
+    "action": "sos_triggered",
+    "detail": "with location"
+   },
+   {
+    "ts": "2026-10-01T07:02:40.777Z",
+    "action": "emergency_card_accessed",
+    "detail": ""
+   },
+   {
+    "ts": "2026-10-01T07:02:49.687Z",
+    "action": "emergency_card_accessed",
+    "detail": ""
    }
   ],
   "usr_78514e6ecfd36e5f": [
@@ -2553,6 +2582,11 @@
    },
    {
     "ts": "2026-10-01T04:13:51.099Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-10-01T07:19:37.476Z",
     "action": "login",
     "detail": ""
    }
