@@ -1,0 +1,2691 @@
+{
+ "users": [
+  {
+   "id": "usr_54b52e030d04bd03",
+   "email": "demo@healthsphere.ai",
+   "name": "Arjun Mehta",
+   "passwordSalt": "cbcceb4ffd109ee102166f0212a44f62",
+   "passwordHash": "ef4fca2b7e907afbfc485cff19d39e784e2775d480581fea057222038cc39ebaf49e7a63e46f2d106054073debb5a801f63d1e5bc62dbc9f1d7bd1eb665dfeb1",
+   "createdAt": "2026-08-25T10:51:40.265Z"
+  },
+  {
+   "id": "usr_78514e6ecfd36e5f",
+   "email": "patient@test.com",
+   "name": "Test Patient",
+   "passwordSalt": "e657d89b11abe2054c40660f8f4e34e9",
+   "passwordHash": "a4b9be2c5d9318fd4e8d8f5f249d6faafcd1402fcfe0b83c21ae180d57a192a33df924e52c8d27fd77b18c8119933ae95a206a3da7445f9fcb141daad905a36f",
+   "createdAt": "2026-08-25T11:13:31.238Z"
+  },
+  {
+   "id": "usr_3ad4d9724c23e619",
+   "email": "dipinroka24@gmail.com",
+   "name": "DipinRoka",
+   "passwordSalt": "6900542877723490eb6420c15eeda220",
+   "passwordHash": "1837e31a207155058f055b788eea088a3d6a00401a014bdfe74c9f2a9329b5a1960f32e806cfcff8ebe5cfce8c0c19eedc0914d2a9b39ab440f35d86abf2e5f9",
+   "createdAt": "2026-08-25T11:58:43.001Z"
+  },
+  {
+   "id": "usr_f5da01d8969cda1f",
+   "email": "dip@234.gmail.com",
+   "name": "DipinRoka",
+   "passwordSalt": "6d5bc86052b4b7bae5badd5c1facb33f",
+   "passwordHash": "5890ddfbd16f22bd0603ddae77ca2d8b8b1982eac2b9b7b1f7f9e6d91790e520196f110775bc86fca132603bfab5e24ab3c0ce1acd8b25c72af053203af982f8",
+   "createdAt": "2026-08-25T14:02:52.005Z"
+  },
+  {
+   "id": "usr_704e74dbaa1c6d62",
+   "email": "raj01@gmail.com",
+   "name": "DipinRoka",
+   "passwordSalt": "c0f7563d3f16f7182d398308a87b64f0",
+   "passwordHash": "44c39fad104d5187fdbe3403c5b25edab4f97b201b8b42d2593441ebc1cf5c663a3bf3dd61d966029a722b484ab34d01c6f7cc6c0575fdc7ab4bc8ed8e02d568",
+   "createdAt": "2026-08-25T14:08:38.092Z"
+  },
+  {
+   "id": "usr_75700e97ede1ca9e",
+   "email": "raj02@gmail.com",
+   "name": "raj",
+   "passwordSalt": "4d2cb14cd7eaf3c0155270e5a991e414",
+   "passwordHash": "09f34ae622b7c6f95f03fae261f8ec18d4dfae41147caf4b45aa10eaf52728a1aa09f9eccf7bdb2d14bd1dcd8140800d19d73fc54a454bc35d5e173e72d93fd1",
+   "createdAt": "2026-08-25T14:45:24.110Z"
+  }
+ ],
+ "sessions": [
+  {
+   "token": "d0114c6fb8cead4372daf4101344ada292a014cab28c8bee434137ffc701ca7e",
+   "userId": "docacc_3869cc2586b4fe38",
+   "role": "doctor",
+   "createdAt": "2026-08-25T10:52:52.491Z",
+   "expiresAt": "2026-09-01T10:52:52.491Z"
+  },
+  {
+   "token": "f0a32bcec340294f9507823959634367b3d6adb2c36344d1d8ff8b03954a34d0",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-08-25T10:58:57.525Z",
+   "expiresAt": "2026-09-01T10:58:57.525Z"
+  },
+  {
+   "token": "99ea283dfeea3f6c12b6c7907990cd67d81685c6a18dd0b5a97deb8c3ad54910",
+   "userId": "docacc_3869cc2586b4fe38",
+   "role": "doctor",
+   "createdAt": "2026-08-25T10:59:24.503Z",
+   "expiresAt": "2026-09-01T10:59:24.503Z"
+  },
+  {
+   "token": "3cb780a8748fa8f767260c2ff085dff6db21e6e961da8b22bced9e30c45cd37f",
+   "userId": "storeown_4d991a4cf21cb771",
+   "role": "store-owner",
+   "createdAt": "2026-08-25T11:00:15.970Z",
+   "expiresAt": "2026-09-01T11:00:15.970Z"
+  },
+  {
+   "token": "b0601c4818ffefaae97c7719f0d153c36cd8a1e1ed96554682ad413e71e966e1",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-08-25T11:00:41.744Z",
+   "expiresAt": "2026-09-01T11:00:41.744Z"
+  },
+  {
+   "token": "d17658f8154941b75e1c218ac276026499c394cd7680123f96ebdf3b8bde1afb",
+   "userId": "usr_78514e6ecfd36e5f",
+   "createdAt": "2026-08-25T11:13:31.385Z",
+   "expiresAt": "2026-09-01T11:13:31.385Z"
+  },
+  {
+   "token": "b155094ab3c214eb5d046113b7822acce98953586ccf4bef779457098765eb30",
+   "userId": "docacc_ce6f2cb38ec69eec",
+   "role": "doctor",
+   "createdAt": "2026-08-25T11:13:32.120Z",
+   "expiresAt": "2026-09-01T11:13:32.120Z"
+  },
+  {
+   "token": "febdf33ca473623b6ce8a495b3b0044ed2a79bd06d7d6fe6e400d9a42392bacb",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-08-25T11:29:18.556Z",
+   "expiresAt": "2026-09-01T11:29:18.556Z"
+  },
+  {
+   "token": "c77f1f202605964844dc9dc0b91f2de025ad3ad272a76ce6c27f14c1e3220dcd",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-08-25T11:43:25.300Z",
+   "expiresAt": "2026-09-01T11:43:25.300Z"
+  },
+  {
+   "token": "710dc58cb1cd43d8de39fd10a93a29c51f46f4e65f46fa156342d5142047aee1",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-08-25T11:58:16.783Z",
+   "expiresAt": "2026-09-01T11:58:16.783Z"
+  },
+  {
+   "token": "61e96c78dc6e224c4248569b80b83ca924ae1a7757ff4ca8771de7260e637dd6",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-08-25T11:58:34.269Z",
+   "expiresAt": "2026-09-01T11:58:34.269Z"
+  },
+  {
+   "token": "06ecb08bb9b4302f07dd66647f64be46d9d486ba1af486065cd3326e8af73f8e",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-08-25T11:58:43.078Z",
+   "expiresAt": "2026-09-01T11:58:43.078Z"
+  },
+  {
+   "token": "4b53aa0ec6ff0e46592bda2395cc19dca682ebc2fa6dbb911da5e5cf114a27ef",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-08-25T12:02:35.337Z",
+   "expiresAt": "2026-09-01T12:02:35.337Z"
+  },
+  {
+   "token": "ad93a63bdcad2aba23b4d6c8d26da84d27112ea03a8b1d778faa5bc45f120657",
+   "userId": "docacc_3869cc2586b4fe38",
+   "role": "doctor",
+   "createdAt": "2026-08-25T12:25:30.209Z",
+   "expiresAt": "2026-09-01T12:25:30.209Z"
+  },
+  {
+   "token": "af78890e8a5eb990cdcbd6c9e1f270a64781502e2e838959722636da57060704",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-08-25T12:25:41.460Z",
+   "expiresAt": "2026-09-01T12:25:41.460Z"
+  },
+  {
+   "token": "1b544f4167f0abbb1032ac316eca2cf8d66b82099c94b5080f7ef22610d9bcb4",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-08-25T12:29:19.584Z",
+   "expiresAt": "2026-09-01T12:29:19.584Z"
+  },
+  {
+   "token": "993160d002232cd31c2c72279403665977d27762ded66b6be837534ff035dc74",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-08-25T13:52:44.102Z",
+   "expiresAt": "2026-09-01T13:52:44.102Z"
+  },
+  {
+   "token": "1ce8b52bcf9b31aff1e0fb1226232818ebd287bcb1d5f2befd0cba1a3cd1baae",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-08-25T13:53:10.689Z",
+   "expiresAt": "2026-09-01T13:53:10.689Z"
+  },
+  {
+   "token": "00838b7822dc97ac8c8ab12d27c8a87ddb5c4bd5be1e53c2f9e2b8d9afd7a6fe",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-08-25T13:56:51.698Z",
+   "expiresAt": "2026-09-01T13:56:51.698Z"
+  },
+  {
+   "token": "aa492ea50e907e728240ff70e10d3cd4ccb0ac828d806a70be2149b9b4d03af7",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-08-25T14:02:11.159Z",
+   "expiresAt": "2026-09-01T14:02:11.159Z"
+  },
+  {
+   "token": "c2dcae44691a0a3f516fff12f12b78171ea1989005e8a0869a0a2101fe62e832",
+   "userId": "usr_f5da01d8969cda1f",
+   "createdAt": "2026-08-25T14:02:52.145Z",
+   "expiresAt": "2026-09-01T14:02:52.145Z"
+  },
+  {
+   "token": "85fa949b011a70c398a280b44200d6dee061972bef230aca9a7996f62ef6c066",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-08-25T14:07:50.297Z",
+   "expiresAt": "2026-09-01T14:07:50.297Z"
+  },
+  {
+   "token": "a80c3e6d081e71db5c9c1b43406c733c3bf0a85349537643c5670a3db47c8b04",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-08-25T14:08:08.201Z",
+   "expiresAt": "2026-09-01T14:08:08.201Z"
+  },
+  {
+   "token": "de44cdc7133e9591ac60254c2c38a657264e84ff58e39afdda7fe11fee514581",
+   "userId": "usr_704e74dbaa1c6d62",
+   "createdAt": "2026-08-25T14:08:38.217Z",
+   "expiresAt": "2026-09-01T14:08:38.217Z"
+  },
+  {
+   "token": "a109eb871f1665991948e06af948fab6aff9d1c9a5b9417df01e24dc748b5fa8",
+   "userId": "storeown_4d991a4cf21cb771",
+   "role": "store-owner",
+   "createdAt": "2026-08-25T14:14:17.273Z",
+   "expiresAt": "2026-09-01T14:14:17.273Z"
+  },
+  {
+   "token": "35bdca4ca3d767cffd2fb985c4f6e608aa29780ab65dfbbc58858aea6ee6f0f4",
+   "userId": "storeown_4d991a4cf21cb771",
+   "role": "store-owner",
+   "createdAt": "2026-08-25T14:14:25.874Z",
+   "expiresAt": "2026-09-01T14:14:25.874Z"
+  },
+  {
+   "token": "61e6e5daa37b5a35e6e3f79a9e64013a7a216d70464501beca000e38b770f392",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-08-25T14:15:42.301Z",
+   "expiresAt": "2026-09-01T14:15:42.301Z"
+  },
+  {
+   "token": "2c1c01c55715a9937a014fe44c9184c7cafa403492e51e4f50f03e3b00d4eea9",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-08-25T14:38:28.505Z",
+   "expiresAt": "2026-09-01T14:38:28.505Z"
+  },
+  {
+   "token": "50fb1a403c73798d8b84a18acd92bf027398f377798fa59e3a8082b262b0db5c",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-08-25T14:44:06.956Z",
+   "expiresAt": "2026-09-01T14:44:06.956Z"
+  },
+  {
+   "token": "89ff5699103a60a06bff893cb490322d29f57700319ed5b76ebe8b594e897f65",
+   "userId": "usr_75700e97ede1ca9e",
+   "createdAt": "2026-08-25T14:45:24.326Z",
+   "expiresAt": "2026-09-01T14:45:24.326Z"
+  },
+  {
+   "token": "9849f28e66795aa8cfb0069019abb4530abb892ab2b1ecb26c9b790d2721b44f",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-08-25T15:01:35.043Z",
+   "expiresAt": "2026-09-01T15:01:35.045Z"
+  },
+  {
+   "token": "fdeb801243d527c2aa27a6cbc676ee11f25e2eee92524416723aafceb6f71498",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-08-25T15:06:09.118Z",
+   "expiresAt": "2026-09-01T15:06:09.118Z"
+  },
+  {
+   "token": "f43e327feb09178b584263927cd3dcdacbf21d7414b1cffabeaebaae1a96c282",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-08-25T17:18:42.463Z",
+   "expiresAt": "2026-09-01T17:18:42.463Z"
+  },
+  {
+   "token": "6f288a7f3b3471056b4cf204ff5ea211a53c685554650fcfdc7fd0364e2de608",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-08-25T17:29:29.499Z",
+   "expiresAt": "2026-09-01T17:29:29.499Z"
+  },
+  {
+   "token": "d2d68d9da4f8230213acae0367da215cf9ea6c492b028d40685375fce581dc99",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-08-25T17:42:21.237Z",
+   "expiresAt": "2026-09-01T17:42:21.237Z"
+  },
+  {
+   "token": "0092ed09738cab817e8768c57027e69325b81692a5bb2e0ad7b057cd523902da",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T13:40:08.728Z",
+   "expiresAt": "2026-10-07T13:40:08.728Z"
+  },
+  {
+   "token": "ba28d950050d23f3eb765b04b106af27f21d1446a9433d042f5a35d6e31f7e57",
+   "userId": "docacc_3869cc2586b4fe38",
+   "role": "doctor",
+   "createdAt": "2026-09-30T13:50:36.661Z",
+   "expiresAt": "2026-10-07T13:50:36.661Z"
+  },
+  {
+   "token": "c1c1b1668709f1cac41fc8ea60c99e696c256416c72b440656dffb1955f6f4be",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T14:05:48.570Z",
+   "expiresAt": "2026-10-07T14:05:48.570Z"
+  },
+  {
+   "token": "a858dcb01b5dbf1b9a1a78c927104d12ffeaf3ae8caecdaf5f2800ac400a667b",
+   "userId": "docacc_e69e6cf2437c971c",
+   "role": "doctor",
+   "createdAt": "2026-09-30T14:12:39.346Z",
+   "expiresAt": "2026-10-07T14:12:39.346Z"
+  },
+  {
+   "token": "1a1ac31cf108b4b0b1066cf50a1cc29cdcf6d398ee2750c0e8a3b8e46eacb123",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T14:13:08.217Z",
+   "expiresAt": "2026-10-07T14:13:08.217Z"
+  },
+  {
+   "token": "ad5fb7e8bb1420438b37cdea1d2aa1513aab2b669e7664caba2ba26c4b0a6c1b",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T14:21:52.530Z",
+   "expiresAt": "2026-10-07T14:21:52.530Z"
+  },
+  {
+   "token": "8fea531d2cb73ef55d8b93e4d4c0cf3cb9965d43e8ab0260cbb1740b08990388",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T14:22:54.239Z",
+   "expiresAt": "2026-10-07T14:22:54.239Z"
+  },
+  {
+   "token": "c62df45aeb50e44238c8d2adcd0c94de463e7beecdaa992e61f2a7476589d3d4",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T14:27:39.449Z",
+   "expiresAt": "2026-10-07T14:27:39.452Z"
+  },
+  {
+   "token": "d7af3ad06f63da4a1b516add51a449ed4fb7b1587608aded2e624b68a6081f4a",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-09-30T14:28:20.996Z",
+   "expiresAt": "2026-10-07T14:28:20.996Z"
+  },
+  {
+   "token": "401d14f1414f3348d4ed3eb8c0908246db2cdf06b1f4e0bc1b3744ae972a9111",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T14:43:54.268Z",
+   "expiresAt": "2026-10-07T14:43:54.268Z"
+  },
+  {
+   "token": "4272520e7132bcfbdfa0f4cd9703e62673bc7f773f27defe49f8b30f059a1561",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T14:49:20.611Z",
+   "expiresAt": "2026-10-07T14:49:20.611Z"
+  },
+  {
+   "token": "a711e9060f654a578c351f53f4eba769b862411a5611a0efa95243b2ad5b0090",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-09-30T14:57:18.731Z",
+   "expiresAt": "2026-10-07T14:57:18.731Z"
+  },
+  {
+   "token": "918eddf983443e167dedf0b35912abb529192644f501b38b6cb1b744c920d92e",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-09-30T15:15:49.489Z",
+   "expiresAt": "2026-10-07T15:15:49.489Z"
+  },
+  {
+   "token": "9542b04e922cb3e05cd81283e683a811eb1fc6cb523a6e0d14b157c9c8248fc0",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-09-30T15:36:53.428Z",
+   "expiresAt": "2026-10-07T15:36:53.428Z"
+  },
+  {
+   "token": "f56794d3c244087e1cecd54facba055df3979d2decedbd20f8b897069f9bf086",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T15:36:59.151Z",
+   "expiresAt": "2026-10-07T15:36:59.151Z"
+  },
+  {
+   "token": "a1e99f98e0b6db93d09f8d1cbe081c98b3660474a5aecd2c72b96f1135638c47",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T15:39:52.292Z",
+   "expiresAt": "2026-10-07T15:39:52.292Z"
+  },
+  {
+   "token": "a32122a9ab90f8da2754a1fd6bc6cf7b13f8c6f681f96db8118cb3ef37333b0f",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T16:06:06.098Z",
+   "expiresAt": "2026-10-07T16:06:06.098Z"
+  },
+  {
+   "token": "04a4e328c4dae6e0510e5f6d4c6da47396cce58001a5e0364dfc8b464630306b",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-09-30T16:08:19.081Z",
+   "expiresAt": "2026-10-07T16:08:19.081Z"
+  },
+  {
+   "token": "8a4c524595b940c3cb1adc096d912de0b6b5016d4b1258bd1b4496f6faf16b64",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T16:10:42.789Z",
+   "expiresAt": "2026-10-07T16:10:42.789Z"
+  },
+  {
+   "token": "f79967b76f7b57ead006a831fc70391b17b68c591f44f08630787c37039c0d41",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T16:19:36.383Z",
+   "expiresAt": "2026-10-07T16:19:36.383Z"
+  },
+  {
+   "token": "9ff74700bf2cd4956dce2e05e55cb35432078a81054f72630f14c0c7bff2ea70",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T16:55:23.133Z",
+   "expiresAt": "2026-10-07T16:55:23.136Z"
+  },
+  {
+   "token": "26ece2fb7af5767ff7a3ee6668326fb2c95dc04437b8ed03e22c68e3c7fcc179",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T16:55:45.224Z",
+   "expiresAt": "2026-10-07T16:55:45.224Z"
+  },
+  {
+   "token": "006146e8edbb9ef678c5e947a92914c4c188ae08c58d68505c18d59fb326c719",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T17:37:52.957Z",
+   "expiresAt": "2026-10-07T17:37:52.957Z"
+  },
+  {
+   "token": "744cf49e0b987f4d4754aeaaffa99f99158fe4830b517eedb89833c96bf982cd",
+   "userId": "usr_3ad4d9724c23e619",
+   "createdAt": "2026-09-30T17:38:16.491Z",
+   "expiresAt": "2026-10-07T17:38:16.491Z"
+  },
+  {
+   "token": "626db3c59940ae6cdd9eeb31fc66e2bceb861b23b9d001e9423aa5f94049932b",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-09-30T17:38:28.445Z",
+   "expiresAt": "2026-10-07T17:38:28.445Z"
+  },
+  {
+   "token": "53b079ba33c11489076c1c305b886ec835e4d58459a9d859e5c685256813e3db",
+   "userId": "usr_54b52e030d04bd03",
+   "createdAt": "2026-10-01T04:15:04.366Z",
+   "expiresAt": "2026-10-08T04:15:04.366Z"
+  }
+ ],
+ "profiles": {
+  "usr_54b52e030d04bd03": {
+   "dob": "1988-04-12",
+   "sex": "male",
+   "heightCm": 172,
+   "weightKg": 78,
+   "bloodGroup": "A+",
+   "allergies": [
+    "Penicillin"
+   ],
+   "conditions": [
+    "Prehypertension"
+   ],
+   "medications": [
+    {
+     "name": "None recorded"
+    }
+   ],
+   "lifestyle": {
+    "activityLevel": "light",
+    "smoking": "never",
+    "alcohol": "occasional",
+    "sleepHours": 6.5,
+    "dietPreference": "vegetarian"
+   },
+   "foodPreference": "vegetarian",
+   "restrictions": [],
+   "goals": [
+    "Improve stamina",
+    "Better sleep",
+    "Maintain healthy weight"
+   ]
+  },
+  "usr_78514e6ecfd36e5f": {},
+  "usr_3ad4d9724c23e619": {},
+  "usr_f5da01d8969cda1f": {},
+  "usr_704e74dbaa1c6d62": {},
+  "usr_75700e97ede1ca9e": {}
+ },
+ "families": {
+  "usr_54b52e030d04bd03": [
+   {
+    "id": "fam_c2df33123226d7a3",
+    "relation": "Grandfather",
+    "name": "Ramesh Mehta",
+    "ageOrYear": "~84",
+    "conditions": [
+     {
+      "name": "Type 2 Diabetes",
+      "diagAge": 62
+     },
+     {
+      "name": "Hypertension",
+      "diagAge": 58
+     }
+    ],
+    "surgeries": [],
+    "cancerHistory": false,
+    "geneticConditions": [],
+    "events": [],
+    "notes": "",
+    "recordedAt": "2026-08-22T10:51:40.296Z"
+   },
+   {
+    "id": "fam_3cb13c4d7f776e50",
+    "relation": "Father",
+    "name": "Suresh Mehta",
+    "ageOrYear": "61",
+    "conditions": [
+     {
+      "name": "Hypertension",
+      "diagAge": 48
+     },
+     {
+      "name": "High cholesterol",
+      "diagAge": 52
+     }
+    ],
+    "surgeries": [],
+    "cancerHistory": false,
+    "geneticConditions": [],
+    "events": [],
+    "notes": "",
+    "recordedAt": "2026-08-21T10:51:40.296Z"
+   },
+   {
+    "id": "fam_4944ae6195f79e93",
+    "relation": "Mother",
+    "name": "Nirmala Mehta",
+    "ageOrYear": "58",
+    "conditions": [
+     {
+      "name": "Hypothyroidism",
+      "diagAge": 45
+     }
+    ],
+    "surgeries": [],
+    "cancerHistory": false,
+    "geneticConditions": [],
+    "events": [],
+    "notes": "",
+    "recordedAt": "2026-08-20T10:51:40.296Z"
+   },
+   {
+    "id": "fam_24f575888817c5cf",
+    "relation": "Uncle",
+    "name": "Mahesh Mehta",
+    "ageOrYear": "57",
+    "conditions": [
+     {
+      "name": "Type 2 Diabetes",
+      "diagAge": 55
+     }
+    ],
+    "surgeries": [],
+    "cancerHistory": false,
+    "geneticConditions": [],
+    "events": [],
+    "notes": "",
+    "recordedAt": "2026-08-19T10:51:40.296Z"
+   },
+   {
+    "id": "fam_f4636c1543d686f0",
+    "relation": "Sister",
+    "name": "Priya Shah",
+    "ageOrYear": "33",
+    "conditions": [],
+    "surgeries": [],
+    "cancerHistory": false,
+    "geneticConditions": [],
+    "events": [],
+    "notes": "",
+    "recordedAt": "2026-08-18T10:51:40.296Z"
+   }
+  ],
+  "usr_3ad4d9724c23e619": [],
+  "usr_f5da01d8969cda1f": [],
+  "usr_704e74dbaa1c6d62": [],
+  "usr_75700e97ede1ca9e": []
+ },
+ "reports": {
+  "usr_54b52e030d04bd03": [
+   {
+    "id": "rep_5cb0e1f6d754cb6d",
+    "filename": "health-check-2025.txt",
+    "storedName": null,
+    "mime": "text/plain",
+    "size": 292,
+    "uploadedAt": "2025-02-12T09:20:00.000Z",
+    "status": "processed",
+    "pipeline": [
+     {
+      "stage": "File validation",
+      "status": "ok",
+      "detail": "health-check-2025.txt · 0 KB"
+     },
+     {
+      "stage": "OCR / document parsing",
+      "status": "ok",
+      "detail": "Plain text ingested"
+     },
+     {
+      "stage": "Safety pre-check",
+      "status": "ok",
+      "detail": "No embedded instruction content honored"
+     },
+     {
+      "stage": "Medical entity extraction",
+      "status": "ok",
+      "detail": "9 analytes recognized"
+     },
+     {
+      "stage": "Value normalization & reference ranges",
+      "status": "ok",
+      "detail": "4 value(s) outside typical reference band"
+     },
+     {
+      "stage": "Structured health data",
+      "status": "ok",
+      "detail": "Saved to your health graph"
+     }
+    ],
+    "structured": {
+     "reportDate": "2025-02-10",
+     "labName": "Metro Diagnostics Laboratory",
+     "tests": [
+      {
+       "key": "hba1c",
+       "name": "HbA1c",
+       "value": 5.7,
+       "unit": "%",
+       "refLow": 4,
+       "refHigh": 5.7,
+       "flag": "normal",
+       "category": "Metabolic"
+      },
+      {
+       "key": "glucose_fasting",
+       "name": "Fasting blood glucose",
+       "value": 104,
+       "unit": "mg/dL",
+       "refLow": 70,
+       "refHigh": 99,
+       "flag": "high",
+       "category": "Metabolic"
+      },
+      {
+       "key": "total_cholesterol",
+       "name": "Total cholesterol",
+       "value": 210,
+       "unit": "mg/dL",
+       "refLow": 100,
+       "refHigh": 200,
+       "flag": "high",
+       "category": "Lipid"
+      },
+      {
+       "key": "ldl",
+       "name": "LDL cholesterol",
+       "value": 126,
+       "unit": "mg/dL",
+       "refLow": 40,
+       "refHigh": 100,
+       "flag": "high",
+       "category": "Lipid"
+      },
+      {
+       "key": "hdl",
+       "name": "HDL cholesterol",
+       "value": 44,
+       "unit": "mg/dL",
+       "refLow": 40,
+       "refHigh": 90,
+       "flag": "normal",
+       "category": "Lipid"
+      },
+      {
+       "key": "triglycerides",
+       "name": "Triglycerides",
+       "value": 142,
+       "unit": "mg/dL",
+       "refLow": 40,
+       "refHigh": 150,
+       "flag": "normal",
+       "category": "Lipid"
+      },
+      {
+       "key": "creatinine",
+       "name": "Serum creatinine",
+       "value": 0.9,
+       "unit": "mg/dL",
+       "refLow": 0.6,
+       "refHigh": 1.3,
+       "flag": "normal",
+       "category": "Kidney"
+      },
+      {
+       "key": "ast",
+       "name": "AST (SGOT)",
+       "value": 104,
+       "unit": "U/L",
+       "refLow": 5,
+       "refHigh": 40,
+       "flag": "high",
+       "category": "Liver"
+      },
+      {
+       "key": "tsh",
+       "name": "TSH",
+       "value": 2.3,
+       "unit": "µIU/mL",
+       "refLow": 0.4,
+       "refHigh": 4,
+       "flag": "normal",
+       "category": "Thyroid"
+      }
+     ],
+     "observations": [
+      {
+       "key": "glucose_fasting",
+       "message": "Fasting blood glucose is above the typical range (104 mg/dL, usual band 70–99)."
+      },
+      {
+       "key": "total_cholesterol",
+       "message": "Total cholesterol is above the typical range (210 mg/dL, usual band 100–200)."
+      },
+      {
+       "key": "ldl",
+       "message": "LDL cholesterol is above the typical range (126 mg/dL, usual band 40–100)."
+      },
+      {
+       "key": "ast",
+       "message": "AST (SGOT) is above the typical range (104 U/L, usual band 5–40)."
+      }
+     ],
+     "flags": [],
+     "extractedAt": "2026-08-25T10:51:40.316Z"
+    },
+    "summaryText": "Processed 9 value(s); 4 outside their typical band.\n• Fasting blood glucose: 104 mg/dL (high)\n• Total cholesterol: 210 mg/dL (high)\n• LDL cholesterol: 126 mg/dL (high)\n• AST (SGOT): 104 U/L (high)\nInformational summary — please discuss results with a qualified professional."
+   },
+   {
+    "id": "rep_088004429ac405b7",
+    "filename": "metabolic-panel-aug2026.txt",
+    "storedName": null,
+    "mime": "text/plain",
+    "size": 345,
+    "uploadedAt": "2026-08-21T07:45:00.000Z",
+    "status": "processed",
+    "pipeline": [
+     {
+      "stage": "File validation",
+      "status": "ok",
+      "detail": "metabolic-panel-aug2026.txt · 0 KB"
+     },
+     {
+      "stage": "OCR / document parsing",
+      "status": "ok",
+      "detail": "Plain text ingested"
+     },
+     {
+      "stage": "Safety pre-check",
+      "status": "ok",
+      "detail": "No embedded instruction content honored"
+     },
+     {
+      "stage": "Medical entity extraction",
+      "status": "ok",
+      "detail": "10 analytes recognized"
+     },
+     {
+      "stage": "Value normalization & reference ranges",
+      "status": "ok",
+      "detail": "9 value(s) outside typical reference band"
+     },
+     {
+      "stage": "Structured health data",
+      "status": "ok",
+      "detail": "Saved to your health graph"
+     }
+    ],
+    "structured": {
+     "reportDate": "2026-08-20",
+     "labName": "Genome Health Laboratory",
+     "tests": [
+      {
+       "key": "hba1c",
+       "name": "HbA1c",
+       "value": 6,
+       "unit": "%",
+       "refLow": 4,
+       "refHigh": 5.7,
+       "flag": "high",
+       "category": "Metabolic"
+      },
+      {
+       "key": "glucose_fasting",
+       "name": "Fasting blood glucose",
+       "value": 112,
+       "unit": "mg/dL",
+       "refLow": 70,
+       "refHigh": 99,
+       "flag": "high",
+       "category": "Metabolic"
+      },
+      {
+       "key": "total_cholesterol",
+       "name": "Total cholesterol",
+       "value": 218,
+       "unit": "mg/dL",
+       "refLow": 100,
+       "refHigh": 200,
+       "flag": "high",
+       "category": "Lipid"
+      },
+      {
+       "key": "ldl",
+       "name": "LDL cholesterol",
+       "value": 131,
+       "unit": "mg/dL",
+       "refLow": 40,
+       "refHigh": 100,
+       "flag": "high",
+       "category": "Lipid"
+      },
+      {
+       "key": "hdl",
+       "name": "HDL cholesterol",
+       "value": 42,
+       "unit": "mg/dL",
+       "refLow": 40,
+       "refHigh": 90,
+       "flag": "normal",
+       "category": "Lipid"
+      },
+      {
+       "key": "triglycerides",
+       "name": "Triglycerides",
+       "value": 158,
+       "unit": "mg/dL",
+       "refLow": 40,
+       "refHigh": 150,
+       "flag": "high",
+       "category": "Lipid"
+      },
+      {
+       "key": "ast",
+       "name": "AST (SGOT)",
+       "value": 112,
+       "unit": "U/L",
+       "refLow": 5,
+       "refHigh": 40,
+       "flag": "high",
+       "category": "Liver"
+      },
+      {
+       "key": "vitamin_d",
+       "name": "Vitamin D (25-OH)",
+       "value": 18,
+       "unit": "ng/mL",
+       "refLow": 30,
+       "refHigh": 100,
+       "flag": "low",
+       "category": "Nutrition"
+      },
+      {
+       "key": "bp_systolic",
+       "name": "Systolic blood pressure",
+       "value": 138,
+       "unit": "mmHg",
+       "refLow": 90,
+       "refHigh": 120,
+       "flag": "high",
+       "category": "Vitals"
+      },
+      {
+       "key": "bp_diastolic",
+       "name": "Diastolic blood pressure",
+       "value": 88,
+       "unit": "mmHg",
+       "refLow": 60,
+       "refHigh": 80,
+       "flag": "high",
+       "category": "Vitals"
+      }
+     ],
+     "observations": [
+      {
+       "key": "hba1c",
+       "message": "HbA1c is above the typical range (6 %, usual band 4–5.7)."
+      },
+      {
+       "key": "glucose_fasting",
+       "message": "Fasting blood glucose is above the typical range (112 mg/dL, usual band 70–99)."
+      },
+      {
+       "key": "total_cholesterol",
+       "message": "Total cholesterol is above the typical range (218 mg/dL, usual band 100–200)."
+      },
+      {
+       "key": "ldl",
+       "message": "LDL cholesterol is above the typical range (131 mg/dL, usual band 40–100)."
+      },
+      {
+       "key": "triglycerides",
+       "message": "Triglycerides is above the typical range (158 mg/dL, usual band 40–150)."
+      },
+      {
+       "key": "ast",
+       "message": "AST (SGOT) is above the typical range (112 U/L, usual band 5–40)."
+      },
+      {
+       "key": "vitamin_d",
+       "message": "Vitamin D (25-OH) is below the typical range (18 ng/mL, usual band 30–100)."
+      },
+      {
+       "key": "bp_systolic",
+       "message": "Systolic blood pressure is above the typical range (138 mmHg, usual band 90–120)."
+      },
+      {
+       "key": "bp_diastolic",
+       "message": "Diastolic blood pressure is above the typical range (88 mmHg, usual band 60–80)."
+      }
+     ],
+     "flags": [],
+     "extractedAt": "2026-08-25T10:51:40.330Z"
+    },
+    "summaryText": "Processed 10 value(s); 9 outside their typical band.\n• HbA1c: 6 % (high)\n• Fasting blood glucose: 112 mg/dL (high)\n• Total cholesterol: 218 mg/dL (high)\n• LDL cholesterol: 131 mg/dL (high)\n• Triglycerides: 158 mg/dL (high)\nInformational summary — please discuss results with a qualified professional."
+   },
+   {
+    "id": "rep_a5e6b9b23eb57224",
+    "filename": "medrep.png",
+    "storedName": "dcb28c66c6f0_medrep.png",
+    "mime": "image/png",
+    "size": 19693,
+    "uploadedAt": "2026-10-01T04:19:54.051Z",
+    "status": "processed",
+    "pipeline": [
+     {
+      "stage": "File validation",
+      "status": "ok",
+      "detail": "medrep.png · 19 KB"
+     },
+     {
+      "stage": "OCR / document parsing",
+      "status": "warn",
+      "detail": "Image OCR simulated — please review values below"
+     },
+     {
+      "stage": "Safety pre-check",
+      "status": "ok",
+      "detail": "No embedded instruction content honored"
+     },
+     {
+      "stage": "Medical entity extraction",
+      "status": "warn",
+      "detail": "No known analytes auto-detected — manual review suggested"
+     },
+     {
+      "stage": "Value normalization & reference ranges",
+      "status": "ok",
+      "detail": "0 value(s) outside typical reference band"
+     },
+     {
+      "stage": "Structured health data",
+      "status": "ok",
+      "detail": "Saved to your health graph"
+     }
+    ],
+    "structured": {
+     "reportDate": "2026-10-01",
+     "labName": null,
+     "tests": [],
+     "observations": [],
+     "flags": [],
+     "extractedAt": "2026-10-01T04:19:54.048Z"
+    },
+    "summaryText": "Report dated 1 Oct 2026\nWe could not confidently recognize standard test values in this document. You can add readings manually so trends and guidance stay up to date.",
+    "fileBackend": "local",
+    "fileData": "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"
+   }
+  ],
+  "usr_3ad4d9724c23e619": [],
+  "usr_f5da01d8969cda1f": [],
+  "usr_704e74dbaa1c6d62": [],
+  "usr_75700e97ede1ca9e": []
+ },
+ "metrics": {
+  "usr_54b52e030d04bd03": [
+   {
+    "id": "met_c55dd0fa609733af",
+    "key": "weight_kg",
+    "value": 82,
+    "unit": "kg",
+    "date": "2024-01-15",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_65523301fbdee15d",
+    "key": "weight_kg",
+    "value": 80.5,
+    "unit": "kg",
+    "date": "2024-09-02",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_019708373719bf71",
+    "key": "weight_kg",
+    "value": 79.5,
+    "unit": "kg",
+    "date": "2025-05-11",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_77346ae4db007350",
+    "key": "weight_kg",
+    "value": 78.8,
+    "unit": "kg",
+    "date": "2026-01-20",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_f69a4c70200f7cf4",
+    "key": "weight_kg",
+    "value": 78,
+    "unit": "kg",
+    "date": "2026-08-01",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_4bfc93670f42b0e0",
+    "key": "hba1c",
+    "value": 5.4,
+    "unit": "%",
+    "date": "2024-03-15",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_c9cc4bcb46d450e6",
+    "key": "hba1c",
+    "value": 5.7,
+    "unit": "%",
+    "date": "2025-02-10",
+    "source": "report",
+    "label": null
+   },
+   {
+    "id": "met_054a3b70940dd555",
+    "key": "hba1c",
+    "value": 6,
+    "unit": "%",
+    "date": "2026-08-20",
+    "source": "report",
+    "label": null
+   },
+   {
+    "id": "met_cec071e31bf4e1d5",
+    "key": "glucose_fasting",
+    "value": 98,
+    "unit": "mg/dL",
+    "date": "2024-03-15",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_dc4606f289aaa470",
+    "key": "glucose_fasting",
+    "value": 104,
+    "unit": "mg/dL",
+    "date": "2025-02-10",
+    "source": "report",
+    "label": null
+   },
+   {
+    "id": "met_6e8ac8316d428f50",
+    "key": "glucose_fasting",
+    "value": 112,
+    "unit": "mg/dL",
+    "date": "2026-08-20",
+    "source": "report",
+    "label": null
+   },
+   {
+    "id": "met_82b176ffe1e87ad1",
+    "key": "total_cholesterol",
+    "value": 205,
+    "unit": "mg/dL",
+    "date": "2024-12-06",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_4daae2d726c6db94",
+    "key": "total_cholesterol",
+    "value": 210,
+    "unit": "mg/dL",
+    "date": "2025-02-10",
+    "source": "report",
+    "label": null
+   },
+   {
+    "id": "met_0b01c1cdaf2b5fd4",
+    "key": "total_cholesterol",
+    "value": 218,
+    "unit": "mg/dL",
+    "date": "2026-08-20",
+    "source": "report",
+    "label": null
+   },
+   {
+    "id": "met_3a8267fa79e44cb5",
+    "key": "ldl",
+    "value": 118,
+    "unit": "mg/dL",
+    "date": "2024-12-06",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_2bee22a000d0d9ea",
+    "key": "ldl",
+    "value": 126,
+    "unit": "mg/dL",
+    "date": "2025-02-10",
+    "source": "report",
+    "label": null
+   },
+   {
+    "id": "met_8db55ff188c51e31",
+    "key": "ldl",
+    "value": 131,
+    "unit": "mg/dL",
+    "date": "2026-08-20",
+    "source": "report",
+    "label": null
+   },
+   {
+    "id": "met_069b6d36df71d78d",
+    "key": "hdl",
+    "value": 46,
+    "unit": "mg/dL",
+    "date": "2024-12-06",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_8570140cb33736d8",
+    "key": "hdl",
+    "value": 44,
+    "unit": "mg/dL",
+    "date": "2025-02-10",
+    "source": "report",
+    "label": null
+   },
+   {
+    "id": "met_f69e4e77cfff2579",
+    "key": "hdl",
+    "value": 42,
+    "unit": "mg/dL",
+    "date": "2026-08-20",
+    "source": "report",
+    "label": null
+   },
+   {
+    "id": "met_42c4f5789334e1fa",
+    "key": "triglycerides",
+    "value": 138,
+    "unit": "mg/dL",
+    "date": "2024-12-06",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_50d258a3dab1398a",
+    "key": "triglycerides",
+    "value": 142,
+    "unit": "mg/dL",
+    "date": "2025-02-10",
+    "source": "report",
+    "label": null
+   },
+   {
+    "id": "met_24b2bce4adc4cb12",
+    "key": "triglycerides",
+    "value": 158,
+    "unit": "mg/dL",
+    "date": "2026-08-20",
+    "source": "report",
+    "label": null
+   },
+   {
+    "id": "met_507d22fa28c5bc86",
+    "key": "bp_systolic",
+    "value": 128,
+    "unit": "mmHg",
+    "date": "2024-11-18",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_65e44b7dce6489bd",
+    "key": "bp_systolic",
+    "value": 130,
+    "unit": "mmHg",
+    "date": "2025-06-14",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_17267b5465d5cf99",
+    "key": "bp_systolic",
+    "value": 134,
+    "unit": "mmHg",
+    "date": "2025-12-09",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_e9e3ebb01f2f76a2",
+    "key": "bp_systolic",
+    "value": 138,
+    "unit": "mmHg",
+    "date": "2026-07-22",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_12833d69bf86ae7a",
+    "key": "bp_diastolic",
+    "value": 84,
+    "unit": "mmHg",
+    "date": "2024-11-18",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_6abee2738031691e",
+    "key": "bp_diastolic",
+    "value": 85,
+    "unit": "mmHg",
+    "date": "2025-06-14",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_1766729f28a2bc04",
+    "key": "bp_diastolic",
+    "value": 86,
+    "unit": "mmHg",
+    "date": "2025-12-09",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_c8cbd3e481f6cc88",
+    "key": "bp_diastolic",
+    "value": 88,
+    "unit": "mmHg",
+    "date": "2026-07-22",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_1d6233ec39f00898",
+    "key": "heart_rate",
+    "value": 74,
+    "unit": "bpm",
+    "date": "2026-07-22",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_f1164818aa6824a3",
+    "key": "tsh",
+    "value": 2.3,
+    "unit": "µIU/mL",
+    "date": "2025-02-10",
+    "source": "report",
+    "label": null
+   },
+   {
+    "id": "met_6bee0fc9b2159034",
+    "key": "tsh",
+    "value": 2.1,
+    "unit": "µIU/mL",
+    "date": "2026-03-30",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_2e9b550011f69174",
+    "key": "hemoglobin",
+    "value": 14.2,
+    "unit": "g/dL",
+    "date": "2026-03-30",
+    "source": "manual",
+    "label": null
+   },
+   {
+    "id": "met_6ee3a5dffcbccb96",
+    "key": "vitamin_d",
+    "value": 18,
+    "unit": "ng/mL",
+    "date": "2026-08-20",
+    "source": "report",
+    "label": null
+   },
+   {
+    "id": "met_36fa08a500f8d063",
+    "key": "creatinine",
+    "value": 0.9,
+    "unit": "mg/dL",
+    "date": "2025-02-10",
+    "source": "report",
+    "label": null
+   }
+  ],
+  "usr_3ad4d9724c23e619": [],
+  "usr_f5da01d8969cda1f": [],
+  "usr_704e74dbaa1c6d62": [],
+  "usr_75700e97ede1ca9e": []
+ },
+ "logs": {
+  "usr_54b52e030d04bd03": [
+   {
+    "id": "log_2550dddc3be2f7f6",
+    "type": "exercise_minutes",
+    "value": 0,
+    "date": "2026-08-09"
+   },
+   {
+    "id": "log_a1e667a4e1c7cffb",
+    "type": "sleep_hours",
+    "value": 7,
+    "date": "2026-08-09"
+   },
+   {
+    "id": "log_c3c32993c892368d",
+    "type": "hydration_liters",
+    "value": 2.5,
+    "date": "2026-08-09"
+   },
+   {
+    "id": "log_7a7870b3e1830168",
+    "type": "mood_score",
+    "value": 4,
+    "date": "2026-08-09"
+   },
+   {
+    "id": "log_bded2c3a2679e881",
+    "type": "exercise_minutes",
+    "value": 25,
+    "date": "2026-08-10"
+   },
+   {
+    "id": "log_26926f63d4adc376",
+    "type": "sleep_hours",
+    "value": 6,
+    "date": "2026-08-10"
+   },
+   {
+    "id": "log_d54847bb0bc46acc",
+    "type": "hydration_liters",
+    "value": 1.8,
+    "date": "2026-08-10"
+   },
+   {
+    "id": "log_a2bc0bd6e679d6d2",
+    "type": "mood_score",
+    "value": 3,
+    "date": "2026-08-10"
+   },
+   {
+    "id": "log_5027c51b24c42c51",
+    "type": "exercise_minutes",
+    "value": 20,
+    "date": "2026-08-11"
+   },
+   {
+    "id": "log_79af4a261f4e1cc5",
+    "type": "sleep_hours",
+    "value": 6.5,
+    "date": "2026-08-11"
+   },
+   {
+    "id": "log_99f585f3ac89c3c5",
+    "type": "hydration_liters",
+    "value": 2.2,
+    "date": "2026-08-11"
+   },
+   {
+    "id": "log_10fc0bd0be97c864",
+    "type": "mood_score",
+    "value": 4,
+    "date": "2026-08-11"
+   },
+   {
+    "id": "log_8ebde4f3c361b7de",
+    "type": "exercise_minutes",
+    "value": 0,
+    "date": "2026-08-12"
+   },
+   {
+    "id": "log_59267cbde3e712aa",
+    "type": "sleep_hours",
+    "value": 6.2,
+    "date": "2026-08-12"
+   },
+   {
+    "id": "log_bac07f5ba9c1c9da",
+    "type": "hydration_liters",
+    "value": 2.1,
+    "date": "2026-08-12"
+   },
+   {
+    "id": "log_52b660f8f0a5c239",
+    "type": "mood_score",
+    "value": 3,
+    "date": "2026-08-12"
+   },
+   {
+    "id": "log_843a0e689a8572af",
+    "type": "exercise_minutes",
+    "value": 20,
+    "date": "2026-08-13"
+   },
+   {
+    "id": "log_d9b12c94d6d19c79",
+    "type": "sleep_hours",
+    "value": 7.2,
+    "date": "2026-08-13"
+   },
+   {
+    "id": "log_cd2cb7f22694a085",
+    "type": "hydration_liters",
+    "value": 2.4,
+    "date": "2026-08-13"
+   },
+   {
+    "id": "log_405696d8a8a52cde",
+    "type": "mood_score",
+    "value": 5,
+    "date": "2026-08-13"
+   },
+   {
+    "id": "log_e6a01f3039e1cc59",
+    "type": "exercise_minutes",
+    "value": 35,
+    "date": "2026-08-14"
+   },
+   {
+    "id": "log_8a13ba4ca4584bc1",
+    "type": "sleep_hours",
+    "value": 6.8,
+    "date": "2026-08-14"
+   },
+   {
+    "id": "log_f0eac6286d420c7b",
+    "type": "hydration_liters",
+    "value": 1.6,
+    "date": "2026-08-14"
+   },
+   {
+    "id": "log_31d6697c15e2e1f4",
+    "type": "mood_score",
+    "value": 4,
+    "date": "2026-08-14"
+   },
+   {
+    "id": "log_7ab1e12ab42eb102",
+    "type": "exercise_minutes",
+    "value": 30,
+    "date": "2026-08-15"
+   },
+   {
+    "id": "log_f7a32c080fa99363",
+    "type": "sleep_hours",
+    "value": 5.8,
+    "date": "2026-08-15"
+   },
+   {
+    "id": "log_bf84b59b7454b7fe",
+    "type": "hydration_liters",
+    "value": 2,
+    "date": "2026-08-15"
+   },
+   {
+    "id": "log_bf921325074bda7a",
+    "type": "mood_score",
+    "value": 3,
+    "date": "2026-08-15"
+   },
+   {
+    "id": "log_629fd9e5d3f81f3c",
+    "type": "exercise_minutes",
+    "value": 0,
+    "date": "2026-08-16"
+   },
+   {
+    "id": "log_c0705b072f0037db",
+    "type": "sleep_hours",
+    "value": 7,
+    "date": "2026-08-16"
+   },
+   {
+    "id": "log_9f46ddb74ed44582",
+    "type": "hydration_liters",
+    "value": 2.5,
+    "date": "2026-08-16"
+   },
+   {
+    "id": "log_e2abf16f88ff0285",
+    "type": "mood_score",
+    "value": 4,
+    "date": "2026-08-16"
+   },
+   {
+    "id": "log_96b8aa82412ef74c",
+    "type": "exercise_minutes",
+    "value": 25,
+    "date": "2026-08-17"
+   },
+   {
+    "id": "log_3d9eb9df67924646",
+    "type": "sleep_hours",
+    "value": 6,
+    "date": "2026-08-17"
+   },
+   {
+    "id": "log_3a406423aa3c91dc",
+    "type": "hydration_liters",
+    "value": 1.8,
+    "date": "2026-08-17"
+   },
+   {
+    "id": "log_93742eba8565413d",
+    "type": "mood_score",
+    "value": 3,
+    "date": "2026-08-17"
+   },
+   {
+    "id": "log_bb4526b83a9f138c",
+    "type": "exercise_minutes",
+    "value": 20,
+    "date": "2026-08-18"
+   },
+   {
+    "id": "log_b3b4e07f23049184",
+    "type": "sleep_hours",
+    "value": 6.5,
+    "date": "2026-08-18"
+   },
+   {
+    "id": "log_ae6526fcdb842323",
+    "type": "hydration_liters",
+    "value": 2.2,
+    "date": "2026-08-18"
+   },
+   {
+    "id": "log_c2be0e52e6fbfbc2",
+    "type": "mood_score",
+    "value": 4,
+    "date": "2026-08-18"
+   },
+   {
+    "id": "log_1fa1fb72762c29a4",
+    "type": "exercise_minutes",
+    "value": 0,
+    "date": "2026-08-19"
+   },
+   {
+    "id": "log_a61f73b06291e2f5",
+    "type": "sleep_hours",
+    "value": 6.2,
+    "date": "2026-08-19"
+   },
+   {
+    "id": "log_38bf98a20a7c8400",
+    "type": "hydration_liters",
+    "value": 2.1,
+    "date": "2026-08-19"
+   },
+   {
+    "id": "log_84b766f291c13876",
+    "type": "mood_score",
+    "value": 3,
+    "date": "2026-08-19"
+   },
+   {
+    "id": "log_16d3c17caf1d5842",
+    "type": "exercise_minutes",
+    "value": 20,
+    "date": "2026-08-20"
+   },
+   {
+    "id": "log_8e36c9ca15afaeda",
+    "type": "sleep_hours",
+    "value": 7.2,
+    "date": "2026-08-20"
+   },
+   {
+    "id": "log_8ce4c9ce74de93dc",
+    "type": "hydration_liters",
+    "value": 2.4,
+    "date": "2026-08-20"
+   },
+   {
+    "id": "log_db8ee4122c9bf154",
+    "type": "mood_score",
+    "value": 5,
+    "date": "2026-08-20"
+   },
+   {
+    "id": "log_67ac8c9a3d033efd",
+    "type": "exercise_minutes",
+    "value": 35,
+    "date": "2026-08-21"
+   },
+   {
+    "id": "log_38951f076d4ccf93",
+    "type": "sleep_hours",
+    "value": 6.8,
+    "date": "2026-08-21"
+   },
+   {
+    "id": "log_908489669a2f466d",
+    "type": "hydration_liters",
+    "value": 1.6,
+    "date": "2026-08-21"
+   },
+   {
+    "id": "log_d932e4902aa75ede",
+    "type": "mood_score",
+    "value": 4,
+    "date": "2026-08-21"
+   },
+   {
+    "id": "log_1fd88cc808bfb7d1",
+    "type": "exercise_minutes",
+    "value": 30,
+    "date": "2026-08-22"
+   },
+   {
+    "id": "log_77777c443617d3eb",
+    "type": "sleep_hours",
+    "value": 5.8,
+    "date": "2026-08-22"
+   },
+   {
+    "id": "log_8170436437b45d98",
+    "type": "hydration_liters",
+    "value": 2,
+    "date": "2026-08-22"
+   },
+   {
+    "id": "log_4af3d5e9ae03a1b4",
+    "type": "mood_score",
+    "value": 3,
+    "date": "2026-08-22"
+   },
+   {
+    "id": "log_d3eb54f04d23e5a3",
+    "type": "exercise_minutes",
+    "value": 0,
+    "date": "2026-08-23"
+   },
+   {
+    "id": "log_eb12995ee7fd9dbe",
+    "type": "sleep_hours",
+    "value": 7,
+    "date": "2026-08-23"
+   },
+   {
+    "id": "log_f368b264b9fcc2cd",
+    "type": "hydration_liters",
+    "value": 2.5,
+    "date": "2026-08-23"
+   },
+   {
+    "id": "log_b0c624a2b90cf30e",
+    "type": "mood_score",
+    "value": 4,
+    "date": "2026-08-23"
+   },
+   {
+    "id": "log_2e3b02ff9d32ac1a",
+    "type": "exercise_minutes",
+    "value": 25,
+    "date": "2026-08-24"
+   },
+   {
+    "id": "log_815a07eec8eb2ce9",
+    "type": "sleep_hours",
+    "value": 6,
+    "date": "2026-08-24"
+   },
+   {
+    "id": "log_c361afc7b625c8c1",
+    "type": "hydration_liters",
+    "value": 1.8,
+    "date": "2026-08-24"
+   },
+   {
+    "id": "log_5d232452bbc247f8",
+    "type": "mood_score",
+    "value": 3,
+    "date": "2026-08-24"
+   }
+  ],
+  "usr_3ad4d9724c23e619": [],
+  "usr_f5da01d8969cda1f": [],
+  "usr_704e74dbaa1c6d62": [],
+  "usr_75700e97ede1ca9e": []
+ },
+ "plans": {
+  "usr_54b52e030d04bd03": {
+   "activity": {
+    "generatedAt": "2026-08-25T14:16:14.114Z",
+    "goal": "Improve stamina",
+    "weeklyTargetMinutes": 150,
+    "weeks": [
+     {
+      "week": 1,
+      "focus": "Build consistent activity",
+      "items": [
+       {
+        "name": "Brisk walking",
+        "detail": "20 minutes × 4 days"
+       },
+       {
+        "name": "Mobility & stretching",
+        "detail": "10 minutes × 3 days"
+       },
+       {
+        "name": "Bodyweight strength",
+        "detail": "10 minutes × 2 days"
+       }
+      ]
+     },
+     {
+      "week": 2,
+      "focus": "Gradual progression",
+      "items": [
+       {
+        "name": "Brisk walking",
+        "detail": "23 minutes × 5 days"
+       },
+       {
+        "name": "Mobility & stretching",
+        "detail": "12 minutes × 3 days"
+       },
+       {
+        "name": "Bodyweight strength",
+        "detail": "12 minutes × 2 days"
+       }
+      ]
+     },
+     {
+      "week": 3,
+      "focus": "Gradual progression",
+      "items": [
+       {
+        "name": "Brisk walking",
+        "detail": "26 minutes × 5 days"
+       },
+       {
+        "name": "Mobility & stretching",
+        "detail": "13 minutes × 3 days"
+       },
+       {
+        "name": "Bodyweight strength",
+        "detail": "13 minutes × 3 days"
+       }
+      ]
+     },
+     {
+      "week": 4,
+      "focus": "Consolidate the habit",
+      "items": [
+       {
+        "name": "Brisk walking",
+        "detail": "29 minutes × 5 days"
+       },
+       {
+        "name": "Mobility & stretching",
+        "detail": "15 minutes × 3 days"
+       },
+       {
+        "name": "Bodyweight strength",
+        "detail": "15 minutes × 3 days"
+       }
+      ]
+     }
+    ],
+    "safetyNotes": [
+     "Start each session gently; stop if you feel unwell.",
+     "Because your profile includes cardiovascular/metabolic risk signals, review this plan with a healthcare professional before increasing intensity.",
+     "This is general guidance, not medical advice — adjust with professional input where relevant."
+    ]
+   },
+   "nutrition": {
+    "generatedAt": "2026-08-25T14:16:14.129Z",
+    "preference": "vegetarian",
+    "estimatedDailyCalories": 1896,
+    "tdeeEstimate": 2296,
+    "goal": "loss",
+    "hydrationTarget": "2.6 L/day",
+    "weekPlan": [
+     {
+      "day": "Mon",
+      "breakfast": [
+       "Oats With Milk, Banana & Nuts",
+       "~350 kcal"
+      ],
+      "lunch": [
+       "Rajma + Brown Rice + Salad",
+       "~520 kcal"
+      ],
+      "dinner": [
+       "Phulka + Palak Paneer + Salad",
+       "~450 kcal"
+      ],
+      "snacks": "Fruit / handful of nuts / buttermilk"
+     },
+     {
+      "day": "Tue",
+      "breakfast": [
+       "Vegetable Poha/Upma + Curd",
+       "~320 kcal"
+      ],
+      "lunch": [
+       "Paneer Bhurji + 2 Rotis + Veggies",
+       "~540 kcal"
+      ],
+      "dinner": [
+       "Moong Dal + Lauki Sabzi + Roti",
+       "~420 kcal"
+      ],
+      "snacks": "Fruit / handful of nuts / buttermilk"
+     },
+     {
+      "day": "Wed",
+      "breakfast": [
+       "Besan Chilla With Mint Chutney",
+       "~300 kcal"
+      ],
+      "lunch": [
+       "Dal Tadka + Rice + Bhindi",
+       "~500 kcal"
+      ],
+      "dinner": [
+       "Vegetable Soup + Grilled Paneer",
+       "~380 kcal"
+      ],
+      "snacks": "Fruit / handful of nuts / buttermilk"
+     },
+     {
+      "day": "Thu",
+      "breakfast": [
+       "Whole-Grain Toast, Peanut Butter & Fruit",
+       "~330 kcal"
+      ],
+      "lunch": [
+       "Chole + Rice + Cucumber Salad",
+       "~530 kcal"
+      ],
+      "dinner": [
+       "Egg-Less Veg Fried Rice (Less Oil)",
+       "~430 kcal"
+      ],
+      "snacks": "Fruit / handful of nuts / buttermilk"
+     },
+     {
+      "day": "Fri",
+      "breakfast": [
+       "Idli + Sambar",
+       "~300 kcal"
+      ],
+      "lunch": [
+       "Veg Pulao + Raita",
+       "~510 kcal"
+      ],
+      "dinner": [
+       "Tofu Stir-Fry + Quinoa",
+       "~440 kcal"
+      ],
+      "snacks": "Fruit / handful of nuts / buttermilk"
+     },
+     {
+      "day": "Sat",
+      "breakfast": [
+       "Greek Yogurt Bowl With Seeds & Berries",
+       "~340 kcal"
+      ],
+      "lunch": [
+       "Mixed-Dal Khichdi + Kadhi",
+       "~480 kcal"
+      ],
+      "dinner": [
+       "Masoor Dal + Bhindi + Roti",
+       "~430 kcal"
+      ],
+      "snacks": "Fruit / handful of nuts / buttermilk"
+     },
+     {
+      "day": "Sun",
+      "breakfast": [
+       "Sprouts Salad + Buttermilk",
+       "~290 kcal"
+      ],
+      "lunch": [
+       "Soya Chunks Curry + Rotis",
+       "~540 kcal"
+      ],
+      "dinner": [
+       "Light Khichdi + Curd",
+       "~400 kcal"
+      ],
+      "snacks": "Fruit / handful of nuts / buttermilk"
+     }
+    ],
+    "notes": [
+     "Excluding suggestions containing “penicillin” due to your recorded allergy.",
+     "Given your risk signals, favouring high-fibre carbohydrates, less added sugar and lower-salt cooking supports the guidance you receive clinically.",
+     "Portion guide: half the plate vegetables, a quarter protein, a quarter whole grains.",
+     "AI-generated nutrition ideas are educational — not medical nutrition therapy."
+    ]
+   }
+  },
+  "usr_3ad4d9724c23e619": {}
+ },
+ "doctors": {
+  "usr_54b52e030d04bd03": [
+   {
+    "id": "doc_98364cbbcab98a03",
+    "name": "Dr. Kavita Rao",
+    "role": "Family Doctor",
+    "specialty": "General Physician",
+    "phone": "+91 98200 11223",
+    "clinic": "Sunrise Family Clinic, Andheri",
+    "notes": "Annual review each January",
+    "addedAt": "2025-01-10T10:00:00Z"
+   },
+   {
+    "id": "doc_5c2b719e76a4e0ff",
+    "name": "Dr. Sameer Menon",
+    "role": "Specialist",
+    "specialty": "Cardiologist",
+    "phone": "+91 98200 44556",
+    "clinic": "Lifeline Heart Institute",
+    "notes": "Consulted 2025 for BP review",
+    "addedAt": "2025-06-14T10:00:00Z"
+   }
+  ],
+  "usr_3ad4d9724c23e619": [],
+  "usr_f5da01d8969cda1f": [],
+  "usr_704e74dbaa1c6d62": [],
+  "usr_75700e97ede1ca9e": []
+ },
+ "contacts": {
+  "usr_54b52e030d04bd03": [
+   {
+    "id": "ct_9e96f36ec66ab33c",
+    "name": "Suresh Mehta",
+    "relation": "Father",
+    "phone": "+91 98200 77889",
+    "notes": "Primary emergency contact",
+    "priority": 1
+   },
+   {
+    "id": "ct_ce45aa342767a6fa",
+    "name": "Nirmala Mehta",
+    "relation": "Mother",
+    "phone": "+91 98200 99001",
+    "notes": "",
+    "priority": 1
+   },
+   {
+    "id": "ct_c4205aea2106db1d",
+    "name": "Anjali Mehta",
+    "relation": "Spouse",
+    "phone": "+91 98200 55447",
+    "notes": "",
+    "priority": 2
+   },
+   {
+    "id": "ct_49163bf5770d0fe9",
+    "name": "Rohit Kumar",
+    "relation": "Friend",
+    "phone": "+91 98200 33221",
+    "notes": "Lives nearby",
+    "priority": 3
+   }
+  ],
+  "usr_3ad4d9724c23e619": []
+ },
+ "reminders": {
+  "usr_54b52e030d04bd03": [
+   {
+    "id": "rem_78e6d39caeddbb58",
+    "userId": "usr_54b52e030d04bd03",
+    "title": "Follow up on HbA1c trend with your doctor",
+    "type": "health",
+    "dueDate": "2026-09-04",
+    "notes": "",
+    "status": "active",
+    "source": "auto:hba1c_followup",
+    "repeatable": false,
+    "createdAt": "2026-08-25T10:51:40.528Z",
+    "actionLog": []
+   },
+   {
+    "id": "rem_e1cb3caacd8160ca",
+    "userId": "usr_54b52e030d04bd03",
+    "title": "Record a blood-pressure reading",
+    "type": "measurement",
+    "dueDate": "2026-08-27",
+    "notes": "",
+    "status": "active",
+    "source": "auto:bp_check",
+    "repeatable": false,
+    "createdAt": "2026-08-25T10:51:40.528Z",
+    "actionLog": []
+   },
+   {
+    "id": "rem_0dfcfc3f47d5ca4c",
+    "userId": "usr_54b52e030d04bd03",
+    "title": "Weekly health review — check insights & lifestyle plan",
+    "type": "lifestyle",
+    "dueDate": "2026-08-31",
+    "notes": "",
+    "status": "active",
+    "source": "auto:weekly_review",
+    "repeatable": false,
+    "createdAt": "2026-08-25T10:51:40.528Z",
+    "actionLog": []
+   },
+   {
+    "id": "rem_b1077a828d1fe7af",
+    "userId": {
+     "id": "usr_54b52e030d04bd03",
+     "email": "demo@healthsphere.ai",
+     "name": "Arjun Mehta",
+     "passwordSalt": "cbcceb4ffd109ee102166f0212a44f62",
+     "passwordHash": "ef4fca2b7e907afbfc485cff19d39e784e2775d480581fea057222038cc39ebaf49e7a63e46f2d106054073debb5a801f63d1e5bc62dbc9f1d7bd1eb665dfeb1",
+     "createdAt": "2026-08-25T10:51:40.265Z"
+    },
+    "title": "Discuss HbA1c trend & family history with Dr. Kavita Rao",
+    "type": "followup",
+    "dueDate": "2026-09-04",
+    "notes": "",
+    "status": "active",
+    "source": "auto:hba1c_followup",
+    "repeatable": false,
+    "createdAt": "2026-08-25T10:51:40.528Z",
+    "actionLog": []
+   },
+   {
+    "id": "rem_6cc3ba0ca4dd03c0",
+    "userId": {
+     "id": "usr_54b52e030d04bd03",
+     "email": "demo@healthsphere.ai",
+     "name": "Arjun Mehta",
+     "passwordSalt": "cbcceb4ffd109ee102166f0212a44f62",
+     "passwordHash": "ef4fca2b7e907afbfc485cff19d39e784e2775d480581fea057222038cc39ebaf49e7a63e46f2d106054073debb5a801f63d1e5bc62dbc9f1d7bd1eb665dfeb1",
+     "createdAt": "2026-08-25T10:51:40.265Z"
+    },
+    "title": "Record blood pressure",
+    "type": "measurement",
+    "dueDate": "2026-08-27",
+    "notes": "",
+    "status": "active",
+    "source": "auto:bp_check",
+    "repeatable": true,
+    "createdAt": "2026-08-25T10:51:40.528Z",
+    "actionLog": []
+   }
+  ],
+  "usr_3ad4d9724c23e619": [
+   {
+    "id": "rem_1377ffdbe72b868a",
+    "userId": "usr_3ad4d9724c23e619",
+    "title": "Weekly health review — check insights & lifestyle plan",
+    "type": "lifestyle",
+    "dueDate": "2026-08-31",
+    "notes": "",
+    "status": "active",
+    "source": "auto:weekly_review",
+    "repeatable": false,
+    "createdAt": "2026-08-25T12:25:47.992Z",
+    "actionLog": []
+   }
+  ],
+  "usr_f5da01d8969cda1f": [],
+  "usr_704e74dbaa1c6d62": [],
+  "usr_75700e97ede1ca9e": []
+ },
+ "settings": {
+  "usr_54b52e030d04bd03": {
+   "consents": {
+    "contactsImport": false,
+    "location": false,
+    "shareReports": false,
+    "familyView": true
+   },
+   "notifications": {
+    "health": true,
+    "lifestyle": true,
+    "healthcare": true,
+    "emergency": true
+   },
+   "privacy": {
+    "analyticsOptOut": true
+   }
+  },
+  "usr_78514e6ecfd36e5f": {
+   "consents": {
+    "contactsImport": false,
+    "location": false,
+    "shareReports": false,
+    "familyView": false
+   },
+   "notifications": {
+    "health": true,
+    "lifestyle": true,
+    "healthcare": true,
+    "emergency": true
+   }
+  },
+  "usr_3ad4d9724c23e619": {
+   "consents": {
+    "contactsImport": false,
+    "location": false,
+    "shareReports": false,
+    "familyView": false
+   },
+   "notifications": {
+    "health": true,
+    "lifestyle": true,
+    "healthcare": true,
+    "emergency": true
+   }
+  },
+  "usr_f5da01d8969cda1f": {
+   "consents": {
+    "contactsImport": false,
+    "location": false,
+    "shareReports": false,
+    "familyView": false
+   },
+   "notifications": {
+    "health": true,
+    "lifestyle": true,
+    "healthcare": true,
+    "emergency": true
+   }
+  },
+  "usr_704e74dbaa1c6d62": {
+   "consents": {
+    "contactsImport": false,
+    "location": false,
+    "shareReports": false,
+    "familyView": false
+   },
+   "notifications": {
+    "health": true,
+    "lifestyle": true,
+    "healthcare": true,
+    "emergency": true
+   }
+  },
+  "usr_75700e97ede1ca9e": {
+   "consents": {
+    "contactsImport": false,
+    "location": false,
+    "shareReports": false,
+    "familyView": false
+   },
+   "notifications": {
+    "health": true,
+    "lifestyle": true,
+    "healthcare": true,
+    "emergency": true
+   }
+  }
+ },
+ "sos": {
+  "usr_54b52e030d04bd03": [
+   {
+    "id": "sos_5ae921e0ace8a33a",
+    "ts": "2026-08-25T17:38:20.433Z",
+    "status": "active",
+    "hasLocation": true,
+    "message": "EMERGENCY ALERT — Arjun Mehta needs urgent help. Please attempt to reach them and send help to their last known location. Location: https://maps.google.com/?q=12.757484183508932,77.70183259634645"
+   },
+   {
+    "id": "sos_e8a58bfd63675272",
+    "ts": "2026-08-25T17:48:30.760Z",
+    "status": "active",
+    "hasLocation": true,
+    "message": "EMERGENCY ALERT — Arjun Mehta needs urgent help. Please attempt to reach them and send help to their last known location. Location: https://maps.google.com/?q=12.757489397530282,77.70182390056053"
+   }
+  ]
+ },
+ "audit": {
+  "usr_54b52e030d04bd03": [
+   {
+    "ts": "2026-08-25T10:51:40.532Z",
+    "action": "seed",
+    "detail": "Demo data created"
+   },
+   {
+    "ts": "2026-08-25T10:58:57.533Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T11:00:41.746Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T11:12:59.615Z",
+    "action": "store_approved",
+    "detail": "qwe"
+   },
+   {
+    "ts": "2026-08-25T11:15:04.905Z",
+    "action": "lifestyle_plan_regenerated",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T11:29:18.562Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T11:29:28.719Z",
+    "action": "emergency_card_accessed",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T11:43:25.314Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T11:58:16.788Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T11:58:34.271Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T12:02:35.343Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T12:20:42.902Z",
+    "action": "emergency_card_accessed",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T12:29:19.587Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T14:07:50.338Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T14:15:42.305Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T14:16:14.129Z",
+    "action": "lifestyle_plan_regenerated",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T15:01:35.060Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T15:06:09.122Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T15:17:41.922Z",
+    "action": "settings_updated",
+    "detail": "consents"
+   },
+   {
+    "ts": "2026-08-25T15:17:42.774Z",
+    "action": "settings_updated",
+    "detail": "consents"
+   },
+   {
+    "ts": "2026-08-25T17:18:42.852Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T17:29:30.081Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T17:38:06.116Z",
+    "action": "emergency_card_accessed",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T17:38:20.434Z",
+    "action": "sos_triggered",
+    "detail": "with location"
+   },
+   {
+    "ts": "2026-08-25T17:41:19.932Z",
+    "action": "emergency_card_accessed",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T17:42:21.254Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T17:48:18.759Z",
+    "action": "emergency_card_accessed",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T17:48:30.760Z",
+    "action": "sos_triggered",
+    "detail": "with location"
+   },
+   {
+    "ts": "2026-08-25T17:48:49.271Z",
+    "action": "emergency_card_accessed",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T13:40:08.888Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T14:05:48.576Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T14:13:08.220Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T14:21:52.619Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T14:22:54.241Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T14:27:39.455Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T14:43:54.341Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T14:49:20.646Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T14:49:24.157Z",
+    "action": "report_uploaded",
+    "detail": "roundtrip-check.png"
+   },
+   {
+    "ts": "2026-09-30T15:36:59.161Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T15:37:22.516Z",
+    "action": "feedback_sent",
+    "detail": "idea: Live verification of the new feedback widget."
+   },
+   {
+    "ts": "2026-09-30T15:39:52.300Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T16:06:06.104Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T16:10:42.795Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T16:19:36.391Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T16:55:23.140Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T16:55:45.228Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T16:56:02.672Z",
+    "action": "report_uploaded",
+    "detail": "roundtrip-check.png"
+   },
+   {
+    "ts": "2026-09-30T17:37:52.961Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T17:37:53.158Z",
+    "action": "report_uploaded",
+    "detail": "roundtrip-check.png"
+   },
+   {
+    "ts": "2026-09-30T17:38:28.448Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-10-01T03:42:47.561Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-10-01T04:15:04.376Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-10-01T04:18:42.404Z",
+    "action": "report_uploaded",
+    "detail": "Sample-PDF-Medical-Report-Template.jpg"
+   },
+   {
+    "ts": "2026-10-01T04:19:54.064Z",
+    "action": "report_uploaded",
+    "detail": "medrep.png"
+   }
+  ],
+  "usr_78514e6ecfd36e5f": [
+   {
+    "ts": "2026-08-25T11:13:31.258Z",
+    "action": "account_created",
+    "detail": ""
+   }
+  ],
+  "usr_3ad4d9724c23e619": [
+   {
+    "ts": "2026-08-25T11:58:43.006Z",
+    "action": "account_created",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T12:25:41.462Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T13:52:44.275Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T13:53:10.697Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T13:56:51.736Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T14:02:11.307Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T14:08:08.214Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T14:38:28.619Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-08-25T14:44:06.963Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T14:28:21.002Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T14:57:18.734Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T15:15:49.497Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T15:36:53.433Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T16:08:19.086Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-09-30T17:38:16.495Z",
+    "action": "login",
+    "detail": ""
+   },
+   {
+    "ts": "2026-10-01T04:13:51.099Z",
+    "action": "login",
+    "detail": ""
+   }
+  ],
+  "usr_f5da01d8969cda1f": [
+   {
+    "ts": "2026-08-25T14:02:52.029Z",
+    "action": "account_created",
+    "detail": ""
+   }
+  ],
+  "usr_704e74dbaa1c6d62": [
+   {
+    "ts": "2026-08-25T14:08:38.101Z",
+    "action": "account_created",
+    "detail": ""
+   }
+  ],
+  "usr_75700e97ede1ca9e": [
+   {
+    "ts": "2026-08-25T14:45:24.174Z",
+    "action": "account_created",
+    "detail": ""
+   }
+  ]
+ },
+ "doctorAccounts": [
+  {
+   "id": "docacc_3869cc2586b4fe38",
+   "email": "dipinroka24@gmail.com",
+   "name": "DipinRoka",
+   "passwordSalt": "9dae222956e38f8879184c003d821bf7",
+   "passwordHash": "52ab1c69da97891ec04fb7f0c8154323a89c43e45762e0f69e1b8fac52acd8f31b39099505c037e630907d7a3fe29ad88d6b9673b0b854b6161e4384f68759ee",
+   "qualification": "mbbs",
+   "specialization": "Cardiologist",
+   "licenseNumber": "12345678",
+   "idProof": "244679898",
+   "yearsExp": 8,
+   "fee": 500,
+   "verificationStatus": "pending",
+   "availabilityStatus": "offline",
+   "createdAt": "2026-08-25T10:52:52.484Z"
+  },
+  {
+   "id": "docacc_ce6f2cb38ec69eec",
+   "email": "doc@test.com",
+   "name": "Dr. Sharma",
+   "passwordSalt": "71ab8e3c5b1de8dc9153c1e3a4045e1b",
+   "passwordHash": "990acf4452de48629b2cdc34092aab177955f81129b782a6be3d66d906296fca606d2cf72a44e76194813f404747c68acd584b54851471f4083e65a7d4a19f3c",
+   "qualification": "MBBS",
+   "specialization": "General Physician",
+   "licenseNumber": "DOC123",
+   "idProof": "",
+   "yearsExp": 10,
+   "fee": 500,
+   "verificationStatus": "pending",
+   "availabilityStatus": "offline",
+   "createdAt": "2026-08-25T11:13:32.115Z"
+  },
+  {
+   "id": "docacc_e69e6cf2437c971c",
+   "email": "dipinroka7@gmail.com",
+   "name": "Dipin Roka",
+   "passwordSalt": "6593bb41cef335a3bef384fff77110f9",
+   "passwordHash": "bb0c7e9ce51aff729a685fe05b096c1659e7365a6dfbadfdc89c56b43a823a0db12f26be5300b9a0f4df17f34278dc259db73a97af7971f9dd600e856104b93b",
+   "qualification": "mbbs",
+   "specialization": "Neurologist",
+   "licenseNumber": "24365766789",
+   "idProof": "33456778234",
+   "yearsExp": 6,
+   "fee": 700,
+   "verificationStatus": "pending",
+   "availabilityStatus": "offline",
+   "createdAt": "2026-09-30T14:12:39.342Z"
+  }
+ ],
+ "storeOwnerAccounts": [
+  {
+   "id": "storeown_4d991a4cf21cb771",
+   "email": "dipinroka24@gmail.com",
+   "ownerName": "Dipin Roka",
+   "storeName": "qwe",
+   "passwordSalt": "382a32fb66d7bc5fd39fe4748d2ce181",
+   "passwordHash": "006dcf545a154d11af26c5597adaed8a3ac005d261f4156898104c53f2ccdfd97b134af00b6a22d950a6f3fb68a1810be604b38d5e66e66f90cb47a3f5fbcaa9",
+   "licenseNumber": "2345",
+   "address": "ssfds",
+   "contact": "+911234567890",
+   "hours": "",
+   "photos": [],
+   "verificationStatus": "verified",
+   "createdAt": "2026-08-25T11:00:15.965Z",
+   "storeId": "store_dcb1de9c0f33759a"
+  }
+ ],
+ "adminAccounts": [],
+ "consultTickets": [
+  {
+   "id": "ctk_3ec9b4c6722418f0",
+   "patientId": "usr_54b52e030d04bd03",
+   "patientName": "Arjun Mehta",
+   "specialization": "General Physician",
+   "symptoms": "dfghj",
+   "preferredSlots": [
+    "wert"
+   ],
+   "urgency": "urgent",
+   "status": "expired",
+   "assignedDoctorId": null,
+   "createdAt": "2026-08-25T10:59:16.046Z",
+   "expiresAt": "2026-08-25T11:14:16.046Z"
+  }
+ ],
+ "consultAppointments": [],
+ "consultMessages": {},
+ "feedback": [],
+ "stores": [
+  {
+   "id": "store_dcb1de9c0f33759a",
+   "ownerId": "storeown_4d991a4cf21cb771",
+   "name": "qwe",
+   "category": "Pharmacy",
+   "address": "ssfds",
+   "lat": null,
+   "lng": null,
+   "hours": "",
+   "contact": "+911234567890",
+   "photos": [],
+   "logo": "",
+   "offers": [],
+   "status": "approved",
+   "views": 1,
+   "clicks": 7,
+   "createdAt": "2026-08-25T11:00:15.966Z"
+  }
+ ]
+}
